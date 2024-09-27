@@ -1,6 +1,6 @@
 ## Návod
 
-1. [Stáhněte si samotnou aplikaci](https://github.com/mholec/gptconsole/build) ve formě souboru dle vašeho operačního systému.
+1. [Stáhněte si samotnou aplikaci](https://github.com/mholec/gptconsole/tree/main/build) ve formě souboru dle vašeho operačního systému.
 2. Nyní jděte na stránku [platform.openai.com](https://platform.openai.com).
 3. Na této stránce se registrujte a poté se přihlaste do vytvořeného účtu.
 4. Jděte do sekce [API Keys](https://platform.openai.com/account/api-keys).
