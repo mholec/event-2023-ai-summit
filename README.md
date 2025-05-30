@@ -1,3 +1,7 @@
+## AI Online Summit 2023
+
+Tato konzole je bonusový materiál pro účastníky AI Online Summit 2023. 
+
 ## Návod
 
 1. [Stáhněte si samotnou aplikaci](https://github.com/mholec/gptconsole/tree/main/build) ve formě souboru dle vašeho operačního systému.
