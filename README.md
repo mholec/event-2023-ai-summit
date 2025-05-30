@@ -1,4 +1,6 @@
-# GPT Console - AI Summit 2023
+# AI Summit 2023 - GPT Console
+
+> Níže uvedená dokumentace k projektu je automaticky generovaná službou GitHub Copilot.
 
 Jednoduchá konzolová aplikace pro komunikaci s ChatGPT 4.0 prostřednictvím OpenAI API. Aplikace slouží jako ukázka a bonusový materiál pro účastníky **AI Online Summit 2023**.
 
